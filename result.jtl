@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="519" lt="249" ts="1416195389083" s="true" lb="HTTP Request" rc="200" rm="OK" tn="google.com 1-1" dt="text" by="17384">
+  <httpSample t="250" lt="249" ts="1416195389083" s="true" lb="http://google.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="576"/>
+  <httpSample t="266" lt="196" ts="1416195389336" s="true" lb="http://www.google.com/" rc="200" rm="OK" tn="google.com 1-1" dt="text" by="18184"/>
+</httpSample>
+<httpSample t="450" lt="180" ts="1416195389276" s="true" lb="HTTP Request" rc="200" rm="OK" tn="google.com 1-2" dt="text" by="17431">
+  <httpSample t="180" lt="180" ts="1416195389276" s="true" lb="http://google.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="576"/>
+  <httpSample t="270" lt="198" ts="1416195389456" s="true" lb="http://www.google.com/" rc="200" rm="OK" tn="google.com 1-2" dt="text" by="18231"/>
+</httpSample>
+<httpSample t="368" lt="93" ts="1416195389476" s="true" lb="HTTP Request" rc="200" rm="OK" tn="google.com 1-3" dt="text" by="17342">
+  <httpSample t="93" lt="93" ts="1416195389476" s="true" lb="http://google.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="576"/>
+  <httpSample t="275" lt="205" ts="1416195389569" s="true" lb="http://www.google.com/" rc="200" rm="OK" tn="google.com 1-3" dt="text" by="18142"/>
+</httpSample>
+<httpSample t="217" lt="95" ts="1416195389676" s="true" lb="HTTP Request" rc="200" rm="OK" tn="google.com 1-4" dt="text" by="17383">
+  <httpSample t="95" lt="95" ts="1416195389676" s="true" lb="http://google.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="576"/>
+  <httpSample t="122" lt="118" ts="1416195389771" s="true" lb="http://www.google.com/" rc="200" rm="OK" tn="google.com 1-4" dt="text" by="18183"/>
+</httpSample>
+<httpSample t="935" lt="612" ts="1416195389083" s="true" lb="HTTP Request" rc="200" rm="OK" tn="blazemeter.com 2-1" dt="text" by="65988"/>
+<httpSample t="226" lt="96" ts="1416195389876" s="true" lb="HTTP Request" rc="200" rm="OK" tn="google.com 1-5" dt="text" by="17342">
+  <httpSample t="96" lt="96" ts="1416195389876" s="true" lb="http://google.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="576"/>
+  <httpSample t="130" lt="130" ts="1416195389972" s="true" lb="http://www.google.com/" rc="200" rm="OK" tn="google.com 1-5" dt="text" by="18142"/>
+</httpSample>
+
+</testResults>
